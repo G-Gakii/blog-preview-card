@@ -30,13 +30,13 @@ Users should be able to:
 
 ### Screenshot
 
-![ blog preview card](/Users/gallantgakii/Documents/projects/frontend/blog-preview-card-main/assets/screenshot/Screenshot 2024-07-18 at 00.31.20.png)
+![ blog preview card]((https://github.com/G-Gakii/blog-preview-card/blob/main/assets/screenshot/Screenshot%202024-07-18%20at%2000.31.20.png))
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://g-gakii.github.io/blog-preview-card/)
 - Live Site URL: (http://127.0.0.1:5500/index.html)
 
 ## My process
