@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![ blog preview card]((https://github.com/G-Gakii/blog-preview-card/blob/main/assets/screenshot/Screenshot%202024-07-18%20at%2000.31.20.png))
+![ blog preview card](https://github.com/G-Gakii/blog-preview-card/blob/main/assets/screenshot/Screenshot%202024-07-18%20at%2000.31.20.png)
 
 
 
